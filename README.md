@@ -1,1 +1,1 @@
-# Detection-of-epilepsey-using-EEG-signals
+# Detection-of-epilepsy-using-EEG-signals
